@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=400&color=70A5FD&background=0D111700&vCenter=true&width=435&lines=Hello%2C+I'm+Gessio!)](https://git.io/typing-svg)
 
-My name is Gessio Mori. I live in São Carlos, Brazil and I currently work as a part-time STEAM educator, teaching coding and robotics to kids and teens. The rest of my working time is dedicated to study and build web apps that you can see below.
+### About me
+
+I'm graduated in physics and aeronautical engineering. I live in São Carlos, Brazil and currently work as a part-time STEAM educator, teaching coding and robotics to kids and teens. The rest of my working time is dedicated to study and build web apps that you can see below.
 
 Contributions and comments on my projects are highly appreciated!
 
@@ -25,7 +27,7 @@ Contributions and comments on my projects are highly appreciated!
 ### My favorite projects:
 
 * [DevTime](https://github.com/GessioMori/devtime): a web app to track development time (NextJS, Planetscale).
-* [DevTime - User card](https://github.com/gessioMori/devtimeimggen): an express app to generate user cards based on DevTime usage.
+* [DevTime - User card](https://github.com/gessioMori/devtimeimggen): a microservice to generate user cards based on DevTime usage.
 * [Dotos! Backend](https://github.com/GessioMori/node-todo-api): a todo app which implements unit and integration tests, email sending and refresh token functionalities following SOLID design principles (NodeJS, Express, AWS).
 * [Dotos! Frontend](https://github.com/GessioMori/dotos-react): a todo frontend made with React, implementing JWT access and refresh tokens stored via http-only cookies, pagination, render optimization with use-context-selector (React, Styled-components, Axios).
 * [MyStore](https://github.com/GessioMori/nextjs-store): a NextJS app which implements payment and data fetching from Stripe API. Furthermore, it provides SSR and SSG for faster navigation. (NextJS)
