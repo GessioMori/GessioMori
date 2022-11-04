@@ -57,7 +57,7 @@ Contributions and comments on my projects are highly appreciated!
 <br>
 
 <p align="center">
-  <img src="https://devtimeimggen.onrender.com/cl9r1t4qr0000wlr36xlsjr7e">
+  <img src="https://devtimeimggen.onrender.com/user/cl9r1t4qr0000wlr36xlsjr7e">
 </p>
 
 <p align="center">
