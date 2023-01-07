@@ -4,7 +4,7 @@
 
 ### About me
 
-I'm graduated in physics and aeronautical engineering. I live in São Carlos, Brazil and currently work as a part-time STEAM educator, teaching coding and robotics to kids and teens. The rest of my working time is dedicated to study and build web apps that you can see below.
+I'm graduated in physics and aeronautical engineering. I live in São Carlos, Brazil and currently work as a part-time STEAM educator, teaching coding and robotics to kids and teens. The rest of my working time is dedicated to studying and building web apps that you can see below.
 
 Contributions and comments on my projects are highly appreciated!
 
