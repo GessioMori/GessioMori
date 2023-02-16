@@ -32,6 +32,8 @@ Contributions and comments on my projects are highly appreciated!
 
 * [DevTime](https://github.com/GessioMori/devtime): a web app to track development time (NextJS, Planetscale).
 * [DevTime - User card](https://github.com/gessioMori/devtimeimggen): a microservice to generate user cards based on DevTime usage.
+* [Blinker - Frontend](https://github.com/GessioMori/blinker-app): a link saver and blog scraper app (React, TailwindCSS).
+* [Blinker - Backend](https://github.com/GessioMori/blinker-api): an API to store private links and save blog posts automatically (TypeScript, express-session, jest, Prisma, PostgreSQL, Redis).
 * [TailPoll - Frontend](https://github.com/GessioMori/tailpoll-frontend): a poll app (React, TailwindCSS, RadixUI).
 * [TailPoll - Backend](https://github.com/GessioMori/tailpoll-backend): a poll backend service (NestJS).
 * [Dotos! - Frontend](https://github.com/GessioMori/dotos-react): a todo frontend made with React, implementing JWT access and refresh tokens stored via http-only cookies, pagination, render optimization with use-context-selector (React, Styled-components, Axios).
