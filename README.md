@@ -32,6 +32,7 @@ Contributions and comments on my projects are highly appreciated!
 
 * [DevTime](https://github.com/GessioMori/devtime): a web app to track development time (NextJS, Planetscale).
 * [DevTime - User card](https://github.com/gessioMori/devtimeimggen): a microservice to generate user cards based on DevTime usage.
+* [TempMail](https://github.com/GessioMori/tempmail): an app to generate a temporary email address using DropMail API (React, TailwindCSS, GraphQL, Apollo Client).
 * [Blinker - Frontend](https://github.com/GessioMori/blinker-app): a link saver and blog scraper app (React, TailwindCSS).
 * [Blinker - Backend](https://github.com/GessioMori/blinker-api): an API to store private links and save blog posts automatically (TypeScript, express-session, jest, Prisma, PostgreSQL, Redis).
 * [TailPoll - Frontend](https://github.com/GessioMori/tailpoll-frontend): a poll app (React, TailwindCSS, RadixUI).
