@@ -63,10 +63,6 @@ Contributions and comments on my projects are highly appreciated!
 <br>
 
 <p align="center">
-  <img src="https://api.dotos.tech/devtimeusercard/card/cl9r1t4qr0000wlr36xlsjr7e">
-</p>
-
-<p align="center">
   <img width="460" height="300" src="http://github-readme-streak-stats.herokuapp.com?user=GessioMori&theme=tokyonight_duo&hide_border=true&border_radius=5">
 </p>
 
