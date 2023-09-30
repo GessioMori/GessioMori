@@ -1,7 +1,3 @@
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=400&color=70A5FD&background=0D111700&vCenter=true&width=435&lines=Hello%2C+I'm+Gessio!)](https://git.io/typing-svg)
-
 ### About me
 
 I'm graduated in physics and aeronautical engineering. I live in São Carlos, Brazil and currently work as a software developer.
